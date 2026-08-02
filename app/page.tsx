@@ -10,23 +10,23 @@ const services = [
   },
   { title: "Plumber", 
     description: "Expert plumbing and pipe fitting services", 
-    image: "../plumP.jpg" 
+    image: "/plumP.jpg" 
   },
   { title: "Cook", 
     description: "Experienced cooks for your kitchen",
-     image: "../cookp.webp" 
+     image: "/cookp.webp" 
   },
   { title: "Maid", 
     description: "Trusted home cleaning and maid services", 
-    image: "../maid3.jpg" 
+    image: "/maid3.jpg" 
   },
   { title: "Driver",
     description: "Professional drivers for your daily commute", 
-    image: "../driver1.jpg"
+    image: "/driver1.jpg"
  },
   { title: "Security Guard", 
     description: "Trained security personnel for your safety", 
-    image: "../guard1.jpg" 
+    image: "/guard1.jpg" 
   },
 ];
 
