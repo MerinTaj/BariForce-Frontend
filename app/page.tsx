@@ -6,7 +6,7 @@ const services = [
 
   { title: "Electrician", 
     description: "Professional electrical services for your home",
-     image: "/currentp.webp"
+     image: "currentp.webp"
   },
   { title: "Plumber", 
     description: "Expert plumbing and pipe fitting services", 
