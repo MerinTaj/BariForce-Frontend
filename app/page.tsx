@@ -10,7 +10,7 @@ const services = [
   },
   { title: "Plumber", 
     description: "Expert plumbing and pipe fitting services", 
-    image: "../plumP.jpg" 
+    image: "/plumP.jpg" 
   },
   { title: "Cook", 
     description: "Experienced cooks for your kitchen",
